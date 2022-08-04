@@ -1,0 +1,55 @@
+body {
+    color: rgb(180, 48, 48);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(https://marketing4ecommerce.net/wp-content/uploads/2019/06/mejores-imprentas-online-de-Espa%C3%B1a-compressor.jpg);
+    background-size: cover;
+    background-size: 80rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+textarea {
+
+    background-image: url(https://st.depositphotos.com/1202217/1243/i/950/depositphotos_12431664-stock-photo-creative-concept-with-vintage-letterpress.jpg);
+    background-size: 17rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 10px;
+
+}
+
+input {
+    border: none;
+    outline: none;
+    width: 50%;
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+    font-size: 12px;
+    padding-left: 30px;
+
+
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: rgb(92, 15, 15);
+}
+
+button {
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    color: beige;
+    background-color: blueviolet;
+    cursor: pointer;
+    transition: all 0.4s step-end;
+}
+
+button:hover {
+    background-color: blue;
+    color: black;
+}
